@@ -1,0 +1,23 @@
+body, html {
+  height: 100%;
+  background-color: black;
+}
+ .parallax{
+  height: 100%; 
+    background-color: black;
+    background-image: url('img/portfolio4.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+div{
+  height: 800px;
+  width: 100%;
+  margin-left: 0px;
+  padding-left:200px;
+  padding-top: 50px;
+  font-size: 40px;
+}
+
+
