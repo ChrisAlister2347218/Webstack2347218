@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product category="Electronics">
+    <id>1</id>
+    <name>Laptop</name>
+    <price>999.99</price>
+    <description>Powerful laptop with great features.</description>
+  </product>
+  <product category="Electronics">
+    <id>2</id>
+    <name>Mobile Phone</name>
+    <price>599.99</price>
+    <description>Powerful Smartphone with great features.</description>
+  </product>
+  <product category="Electronics">
+    <id>3</id>
+    <name>TV</name>
+    <price>299.99</price>
+    <description>Powerful SmartTV with great features.</description>
+  </product>
+</products>
